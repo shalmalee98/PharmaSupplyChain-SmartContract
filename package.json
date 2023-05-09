@@ -12,12 +12,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
     "@truffle/contract": "^4.4.1",
+    "@truffle/hdwallet-provider": "^2.1.10",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.17.2",
     "mongodb": "^4.2.2",
     "nodemon": "^2.0.15",
-    "web3": "^1.6.1",
-    "@openzeppelin/contracts": "^4.8.3"
+    "web3": "^1.6.1"
   }
 }
